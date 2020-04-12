@@ -15,6 +15,7 @@
 		FF197D582443B10E00030178 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF197D562443B10E00030178 /* LaunchScreen.storyboard */; };
 		FF197D632443B10F00030178 /* Homework_7Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF197D622443B10F00030178 /* Homework_7Tests.swift */; };
 		FF197D6E2443B10F00030178 /* Homework_7UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF197D6D2443B10F00030178 /* Homework_7UITests.swift */; };
+		FF197D7C2443D51000030178 /* GuiderClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF197D7B2443D51000030178 /* GuiderClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF197D692443B10F00030178 /* Homework 7UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Homework 7UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF197D6D2443B10F00030178 /* Homework_7UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homework_7UITests.swift; sourceTree = "<group>"; };
 		FF197D6F2443B10F00030178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF197D7B2443D51000030178 /* GuiderClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuiderClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FF197D4D2443B10500030178 /* SceneDelegate.swift */,
 				FF197D4F2443B10500030178 /* ViewController.swift */,
 				FF197D512443B10500030178 /* Main.storyboard */,
+				FF197D7B2443D51000030178 /* GuiderClass.swift */,
 				FF197D542443B10E00030178 /* Assets.xcassets */,
 				FF197D562443B10E00030178 /* LaunchScreen.storyboard */,
 				FF197D592443B10E00030178 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				FF197D502443B10500030178 /* ViewController.swift in Sources */,
 				FF197D4C2443B10500030178 /* AppDelegate.swift in Sources */,
+				FF197D7C2443D51000030178 /* GuiderClass.swift in Sources */,
 				FF197D4E2443B10500030178 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
